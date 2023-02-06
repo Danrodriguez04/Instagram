@@ -131,10 +131,7 @@ main>div:nth-child(3) {
 
 /*menu*/
 
-body main{
-    height: 100%;
-    overflow: scroll;
-}
+
 
 
 body {
